@@ -1,6 +1,6 @@
 .app {
-  height: 100vh;
-  width: 100vw;
+ height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: row;
   margin: 0;
@@ -8,14 +8,11 @@
 }
 
 .sidebar {
-  height: 950px;
-  min-width: 200px;
-  font-size: 10px;
-  position: sticky;
+  padding: 10px;
   background-color: rgb(157, 157, 157);
 }
 
 .main {
-  height: 100vh;
+  height: 100%;
   width: 100%;
 }
