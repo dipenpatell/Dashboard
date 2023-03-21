@@ -53,6 +53,7 @@
   background-color: rgb(199, 199, 199);
   background-image: url("../img/Bgi.jpg");
   background-size: cover;
+  overflow: scroll;
 }
 .idle-stat-container {
   padding: 10px;
@@ -66,7 +67,9 @@
   background-color: rgb(199, 199, 199);
   background-image: url("../img/Bgi.jpg");
   background-size: cover;
+  overflow: scroll;
 }
+
 .heading-container {
   margin: none;
 }
@@ -82,6 +85,18 @@
   background-color: rgb(199, 199, 199);
   background-image: url("../img/Bgi.jpg");
   background-size: cover;
+  overflow: scroll;
+}
+
+.stat-container::-webkit-scrollbar {
+  display: none;
+}
+
+.idle-stat-container::-webkit-scrollbar {
+  display: none;
+}
+.head-stat-container::-webkit-scrollbar {
+  display: none;
 }
 .box-container {
   padding: 10px;
