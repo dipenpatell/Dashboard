@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dashboard/static/css/main.2419d084.css",
+    "main.css": "/Dashboard/static/css/main.c1e7701c.css",
     "main.js": "/Dashboard/static/js/main.05b0240d.js",
     "static/media/dahua.png": "/Dashboard/static/media/dahua.61df565aa0a17b3f66d2.png",
     "static/media/Bgi.jpg": "/Dashboard/static/media/Bgi.0e0ddeb36208ab497e54.jpg",
     "index.html": "/Dashboard/index.html",
-    "main.2419d084.css.map": "/Dashboard/static/css/main.2419d084.css.map",
+    "main.c1e7701c.css.map": "/Dashboard/static/css/main.c1e7701c.css.map",
     "main.05b0240d.js.map": "/Dashboard/static/js/main.05b0240d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2419d084.css",
+    "static/css/main.c1e7701c.css",
     "static/js/main.05b0240d.js"
   ]
 }
