@@ -1,15 +1,10 @@
 .app {
-<<<<<<< HEAD
   height: 100%;
-=======
- height: 100%;
->>>>>>> 2324630b15d4ff4226921bcc88596ea77c10e550
   width: 100%;
   display: flex;
   flex-direction: row;
   margin: 0;
   padding: 0;
-<<<<<<< HEAD
   /* overflow: scroll; */
 }
 
@@ -17,12 +12,6 @@
   /* height: 950px;
   min-width: 200px;
   font-size: 10px; */
-=======
-   overflow: scroll;
-}
-
-.sidebar {
->>>>>>> 2324630b15d4ff4226921bcc88596ea77c10e550
   padding: 10px;
   background-color: rgb(157, 157, 157);
 }
